@@ -45,7 +45,7 @@ Algorithm
 ---------
 
 The algorithm for 5 cards is just a port of this algorithm:
-http://www.suffecool.net/poker/evaluator.html
+http://suffe.cool/poker/evaluator.html
 
 I came up with the 6 and 7 card evaluators myself, using a very similar
 card representation and applying some of the same ideas with prime
